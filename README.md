@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset-"UTF-8">
+    <meta name-"viewport" content-"width-device-width, initial-scale-1.0">
+    <title>Ngày 8 tháng 3 !</title>
+</head>
+<style>
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+
+div {
+    color: black;
+    text-align: center; 
+     
+}
+</style>
+</head>
+<body>
+
+<h1>Ngày 8 tháng 3</h1>
+<p>Nhân ngày 8 tháng 3, tao tặng tụi con gái quà</p>
+<div><span>Nhấn vào đây và nhận quà</span>: <a href="https://www.youtube.com/shorts/p-S0MdndXvM" target="_blank">Click here</a></div>
+
+</body>
+</html>
